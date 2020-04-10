@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "coffee-shop-deba1": {
+      "hosting": {
+        "KittyGramAuth": [
+          "coffee-shop-deba1"
+        ]
+      }
+    }
+  }
+}
